@@ -38,11 +38,7 @@ class IdRepository : IIdRepository
             {
                 return dbCtx.Module.Select(m => m.Name).ToList();
             }
-
-
             return null;
-            
-
         }
         catch (Exception ex)
         {

@@ -1,4 +1,3 @@
-using System.Reflection;
 using IdentityService.Domain;
 using IdentityService.Domain.Entities;
 using Microsoft.AspNetCore.Identity.EntityFrameworkCore;

@@ -10,7 +10,7 @@ public class ModuleConfig : IEntityTypeConfiguration<ProjectModule>
     {
         try
         {
-            builder.ToTable("T_ProjectModule");
+            builder.ToTable("T_ProjectModules");
 
             builder.HasKey(e => e.Id);
         }
