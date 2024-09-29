@@ -28,7 +28,7 @@
 /FileService.SDK.NETCore/obj
 /FileService.WebAPI/bin
 /FileService.WebAPI/obj
-
+**/appsettings*
 
 
 
